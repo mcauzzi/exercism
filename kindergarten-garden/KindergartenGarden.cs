@@ -42,7 +42,6 @@ public class KindergartenGarden
                     break;
                 default:
                     throw new ArgumentException();
-                    break;
             }
         }
 
